@@ -1,0 +1,217 @@
+Maya
+Grubb
+Runner
+Corgan
+Led
+Selena
+Aryam
+Badu
+Lobo
+Strike
+Armor
+Power
+Core
+Strength
+Agility
+Perception
+Psyche
+Vitality
+Speed
+Level
+Exp
+Next
+Status:
+Options
+Form Party
+Lv:
+Poisoned
+Maya
+Grubb
+Runner
+Corgan
+Led
+Selina
+Araym
+Badu
+Lobo
+XXXBracketXXX
+Armstrong Seal
+Azziz's Temple
+Underlost
+Bio-Luminescence
+Bone Circles
+Bounty Hunters
+Bread
+Breather Mask
+Campbell
+The Chosen
+Coin
+Connor
+The Core
+Core Key
+Core Key Revealed
+Corgan
+Corite
+Doomsday Device
+Drink
+Earthquakes
+Explosives
+Factory
+Fight
+Mold Forest Ruins
+Generator
+Grubb
+Gunnar
+Headless Statue
+Helgak
+Helgak Bone
+Helgak Farm
+Hell God
+Hermit
+Holy Guard
+Jinam Soldiers
+Kyra's Mirror
+Layla
+Layla
+Watcher Layla
+Library
+Steal with Runner
+Lobo
+Marduk
+Mayor
+Jinam Plague
+Steal with Araym
+Bio-Luminescent Nectar
+Monk
+Passport
+Run Away
+Runner
+XXXNothingXXX
+Septerra
+Transport Ship
+Shop
+Steal
+Tattooed Girl
+Tomb
+XXXNothingXXX
+Tori
+XXXNothingXXX
+Trade
+Watchers
+Wind City
+Power Stations
+Workbots
+XXXHeadFrameXXX
+Get a room and Heal Up.
+Get a room. 50 Coin.
+No Thanks
+Go to Shell Four
+Go to Shell Three
+Go to Shell Seven
+Give Beggar 1 Coin
+Go to Shell Five
+Help Led!
+Go get the Gadget!
+Buy
+Sell
+Price
+Item
+Qty
+Total
+Accept
+Clear
+Increase Qty
+Decrease Qty
+Scroll Up
+Scroll Down
+XXXUnusedXXX
+Skills
+Fate Cards
+Items
+Defend
+Run Away
+Exit
+Equip
+SubScreens
+Globe Map
+Healing Items
+Key Items
+Last
+Next
+XXXBoxTextXXX
+XXXBoxItemsXXX
+XXXBoxInterfaceXXX
+XXXItemFrameXXX
+Chaos
+Fire
+Water
+Air
+Earth
+Curse
+Vampyre
+Achilles Heel
+Summon
+Barrier
+Law
+Resurrect
+Heal
+Cure
+Bless
+Cloak
+Mirror
+Joker
+Escape
+Affect All
+Slow
+Speed
+Loading...
+Save Game
+Load Game
+Audio
+Credits
+Are You Sure?
+Return
+Quit Game
+New Game
+Continue Game
+Shell 1
+Shell 2
+Shell 3
+Shell 4
+Shell 5
+Shell 6
+Shell 7
+Master
+Music
+FX
+Speech
+Overwrite Existing File?
+Load
+Save
+Quit Game?
+Game Over
+Game Saved
+Party gained
+ experience points
+You found
+ gold
+advanced to level 
+miss
+Berserk
+Curse
+Bless
+Vampiric Curse
+Stun
+Dead
+Barrier
+Slow
+Speed
+Regenerate
+Poison
+Cloak
+Counterattack
+No Escape
+Protect
+Defend
+Charged
+Qty Owned:
