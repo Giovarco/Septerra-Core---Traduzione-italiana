@@ -7,24 +7,24 @@ Selena
 Aryam
 Badu
 Lobo
-Strike
-Armor
-Power
+Attacco
+Armatura
+Forza
 Core
-Strength
-Agility
-Perception
-Psyche
-Vitality
-Speed
-Level
-Exp
-Next
-Status:
-Options
-Form Party
+Resistenza
+Agilità
+Percezione
+Psiche
+Vitalità
+Velocità
+Livello
+Esp
+Avanti
+Stato:
+Opzioni
+Formare squadra
 Lv:
-Poisoned
+Avvelenato
 Maya
 Grubb
 Runner
@@ -35,145 +35,145 @@ Araym
 Badu
 Lobo
 XXXBracketXXX
-Armstrong Seal
-Azziz's Temple
+Sigillo di Armstrong
+Tempio di Azziz
 Underlost
 Bio-Luminescence
 Bone Circles
-Bounty Hunters
-Bread
-Breather Mask
+Cacciatori di taglie
+Pane
+Respiratore
 Campbell
-The Chosen
-Coin
+I Prescelti
+Moneta
 Connor
-The Core
-Core Key
-Core Key Revealed
+Il Core
+Chiave del Core
+Chiave del Core rivelata
 Corgan
 Corite
-Doomsday Device
-Drink
-Earthquakes
-Explosives
-Factory
-Fight
-Mold Forest Ruins
-Generator
+Dispositivo dell'Apocalisse
+Bevanda
+Terremoti
+Esplosivi
+Fabbrica
+Combattimento
+Rovine nella Foresta Morta
+Generatore
 Grubb
 Gunnar
-Headless Statue
+Statua senza testa
 Helgak
-Helgak Bone
-Helgak Farm
-Hell God
-Hermit
-Holy Guard
-Jinam Soldiers
-Kyra's Mirror
+Osso di Helgak
+Fattoria di Helgak
+Dio degli Inferi
+Eremita
+Sacro Custode
+Soldati di Jinam
+Specchio di Kyra
 Layla
 Layla
 Watcher Layla
-Library
-Steal with Runner
+Biblioteca
+Derubare con Runner
 Lobo
 Marduk
-Mayor
-Jinam Plague
-Steal with Araym
-Bio-Luminescent Nectar
-Monk
-Passport
-Run Away
+Sindaco
+Piaga di Jinam
+Derubare con Araym
+Nettare bioluminescente
+Monaco
+Passaporto
+Scappa
 Runner
 XXXNothingXXX
 Septerra
-Transport Ship
-Shop
-Steal
-Tattooed Girl
-Tomb
+Nave da trasporto
+Negozio
+Rubare
+Ragazza tatuata
+Tomba
 XXXNothingXXX
 Tori
 XXXNothingXXX
-Trade
-Watchers
+Commerciare
+Watcher
 Wind City
-Power Stations
-Workbots
+Centrali elettriche
+Robot lavoratori
 XXXHeadFrameXXX
-Get a room and Heal Up.
-Get a room. 50 Coin.
-No Thanks
-Go to Shell Four
-Go to Shell Three
-Go to Shell Seven
-Give Beggar 1 Coin
-Go to Shell Five
-Help Led!
-Go get the Gadget!
-Buy
-Sell
-Price
-Item
-Qty
-Total
-Accept
-Clear
-Increase Qty
-Decrease Qty
-Scroll Up
-Scroll Down
+Prendere una stanza e curarsi
+Prendere una stanza per 50 monete
+No grazie
+Andare allo Shell 4
+Andare allo Shell 3
+Andare allo Shell 7
+Dare una moneta a Beggar
+Andare allo Shell 5
+Aiuta Led!
+Vai a prendere l'aggeggio!
+Comprare
+Vendere
+Prezzo
+Oggetto
+Pz
+Totale
+Accettare
+Ripulire
+Aumentare quantità
+Diminuire quantità
+Scorrere in alto
+Scorrere in basso
 XXXUnusedXXX
-Skills
-Fate Cards
-Items
-Defend
-Run Away
-Exit
+Abilità
+Carte del destino
+Oggetti
+Difendere
+Scappare
+Uscire
 Equip
 SubScreens
-Globe Map
-Healing Items
-Key Items
-Last
-Next
+Mappa del globo
+Oggetti curativi
+Oggetti chiave
+Ultimo
+Prossimo
 XXXBoxTextXXX
 XXXBoxItemsXXX
 XXXBoxInterfaceXXX
 XXXItemFrameXXX
-Chaos
-Fire
-Water
-Air
-Earth
-Curse
+Caos
+Fuoco
+Acqua
+Aria
+Terra
+Maledizione
 Vampyre
-Achilles Heel
-Summon
-Barrier
+Tallone d'Achille
+Evocare
+Barriera
 Law
-Resurrect
-Heal
-Cure
-Bless
-Cloak
-Mirror
+Resuscitare
+Guarire
+Curare
+Benedire
+Celare
+Specchio
 Joker
-Escape
-Affect All
-Slow
-Speed
-Loading...
-Save Game
-Load Game
+Scappare
+Colpire tutti
+Rallentare
+Velocità
+Caricamento...
+Salvare
+Caricare
 Audio
-Credits
-Are You Sure?
-Return
-Quit Game
-New Game
-Continue Game
+Crediti
+Sei sicuro?
+Ritornare
+Uscire
+Nuova partita
+Continuare partita
 Shell 1
 Shell 2
 Shell 3
@@ -182,36 +182,36 @@ Shell 5
 Shell 6
 Shell 7
 Master
-Music
+Musica
 FX
-Speech
-Overwrite Existing File?
-Load
-Save
-Quit Game?
+Voci
+Sovrascrivere il file esistente?
+Caricare
+Salvare
+Uscire dal gioco?
 Game Over
-Game Saved
-Party gained
- experience points
-You found
- gold
-advanced to level 
-miss
+Gioco salvato
+Nuovo membro del team
+ punti esperienza
+Hai trovato
+ oro
+avanzato al livello 
+mancato
 Berserk
-Curse
-Bless
-Vampiric Curse
-Stun
-Dead
-Barrier
-Slow
-Speed
-Regenerate
-Poison
-Cloak
-Counterattack
-No Escape
-Protect
-Defend
-Charged
-Qty Owned:
+Maledizione
+Benedizione
+Maledizione vampirica
+Stordimento
+Morte
+Barriera
+Rallentamento
+Velocità
+Rigenerazione
+Avvelenamento
+Invisibilità
+Contrattacco
+Nessuna fuga
+Proteggere
+Difendere
+Caricato
+Pz in possesso:
