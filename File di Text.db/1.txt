@@ -12,11 +12,11 @@ Armatura
 Forza
 Core
 Resistenza
-Agilit√†
+Agilit‡†
 Percezione
 Psiche
-Vitalit√†
-Velocit√†
+Vitalit‡†
+Velocit‡†
 Livello
 Esp
 Avanti
@@ -120,8 +120,8 @@ Pz
 Totale
 Accettare
 Ripulire
-Aumentare quantit√†
-Diminuire quantit√†
+Aumentare quantit‡†
+Diminuire quantit‡†
 Scorrere in alto
 Scorrere in basso
 XXXUnusedXXX
@@ -205,10 +205,10 @@ Stordimento
 Morte
 Barriera
 Rallentamento
-Velocit√†
+Velocit‡†
 Rigenerazione
 Avvelenamento
-Invisibilit√†
+Invisibilit‡†
 Contrattacco
 Nessuna fuga
 Proteggere
